@@ -1,0 +1,16 @@
+{
+  "MealPlanning": {
+    "daysPerWeek": 2,
+    "includedMeals": ["dinner"]
+  },
+  "FoodPreferences": {
+    "diet": null,
+    "excludeIngredients": [],
+    "intolerances": [],
+    "cuisines": [],
+    "minCaloriesPerMeal": 700
+  },
+  "Kroger": {
+    "locationId": "62000061"
+  }
+}
