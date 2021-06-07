@@ -1,0 +1,11 @@
+{
+  "name": "foodplanner",
+  "version": "1.0.0",
+  "description": "automatically plan meals for the week and place grocery pickup orders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Freeman",
+  "license": "SEE LICENSE IN LICENSE"
+}
